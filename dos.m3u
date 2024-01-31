@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="CANALES VARIADOS", UNIVERSAL CINEMA ESTE HD
+http://138.59.177.34:8000/play/a07c/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", UNIVERSAL COMEDY HD
+http://138.59.177.34:8000/play/a05w/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", UNIVERSAL CRIME HD
+http://138.59.177.34:8000/play/a05v/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", UNIVERSAL PREMIERE HD
+http://138.59.177.34:8000/play/a05s/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", UNIVERSAL PREMIERE O HD
+http://138.59.177.34:8000/play/a05t/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", UNIVERSAL REALITY HD
+http://138.59.177.34:8000/play/a05u/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", Universal
+http://138.59.177.34:8000/play/a06m/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", Univision HD
+http://138.59.177.34:8000/play/a07a/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", VENUS
+http://138.59.177.34:8000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", VTV Canal 35 ESA
+http://138.59.177.34:8000/play/a03w/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", WARNER HD
+http://138.59.177.34:8000/play/a05d/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", Warner
+http://138.59.177.34:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", ZooMoo
+http://138.59.177.34:8000/play/a00q/index.m3u8
