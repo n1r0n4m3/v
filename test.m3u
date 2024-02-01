@@ -1,0 +1,49 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Peliculas", TNT
+http://167.114.156.136:25461/INFINITV/ZX89NM22/01
+
+#EXTINF:-1 group-title="Peliculas", TNT2
+http://167.114.156.136:25461/INFINITV/ZX89NM22/02
+
+#EXTINF:-1 group-title="Peliculas", TNT3
+http://167.114.156.136:25461/INFINITV/ZX89NM22/03
+
+#EXTINF:-1 group-title="Peliculas", TNT4
+http://167.114.156.136:25461/INFINITV/ZX89NM22/04
+
+#EXTINF:-1 group-title="Peliculas", TNT5
+http://167.114.156.136:25461/INFINITV/ZX89NM22/05
+
+#EXTINF:-1 group-title="Peliculas", TNT5
+http://167.114.156.136:25461/INFINITV/ZX89NM22/06
+
+#EXTINF:-1 group-title="Peliculas", TNT7
+http://167.114.156.136:25461/INFINITV/ZX89NM22/07
+
+#EXTINF:-1 group-title="Peliculas", TNT8
+http://167.114.156.136:25461/INFINITV/ZX89NM22/08
+
+#EXTINF:-1 group-title="Peliculas", TNT9
+http://167.114.156.136:25461/INFINITV/ZX89NM22/09
+
+#EXTINF:-1 group-title="Peliculas", TNT10
+http://167.114.156.136:25461/INFINITV/ZX89NM22/10
+
+#EXTINF:-1 group-title="Deportes", ESPN 3 HD1
+http://138.59.177.34:8000/play/a070/index.m3u8
+
+#EXTINF:-1 group-title="Deportes", ESPN 3 HD2
+http://138.59.177.34:8000/play/a071/index.m3u8
+
+#EXTINF:-1 group-title="Deportes", ESPN 3 HD3
+http://138.59.177.34:8000/play/a072/index.m3u8
+
+#EXTINF:-1 group-title="Deportes", ESPN 3 HD4
+http://138.59.177.34:8000/play/a073/index.m3u8
+
+#EXTINF:-1 group-title="Deportes", ESPN 3 Hd5
+http://138.59.177.34:8000/play/a074/index.m3u8
+
+#EXTINF:-1 group-title="Deportes", ESPN 3 HD6
+http://138.59.177.34:8000/play/a075/index.m3u8
